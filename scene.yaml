@@ -104,7 +104,7 @@ layers:
                 kind: state
             draw:
                 togglelines:
-                    order: 3
+                    order: 4
                     width: 1px
                     color: [0, .5, .5]
     roads:
